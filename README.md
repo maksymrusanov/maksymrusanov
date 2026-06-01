@@ -62,16 +62,6 @@ Parser / Telegram bot project for working with rental listings.
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maksymrusanov&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymrusanov&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🧩 What I care about
