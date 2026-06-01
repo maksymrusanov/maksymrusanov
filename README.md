@@ -57,21 +57,17 @@ Parser / Telegram bot project for working with rental listings.
 ### 🛠 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,linux,git,github,neovim" />
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="40" /></a>
+  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" height="40" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" height="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="40" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim" height="40" /></a>
 </p>
-
----
-
----
-
-### 🧩 What I care about
-
-* Building real projects, not just tutorials
-* Writing code that is understandable and maintainable
-* Improving systems gradually
-* Learning backend engineering through practice
-* Automating boring things with Python
-
 ---
 
 <p align="center">
